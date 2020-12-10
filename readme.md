@@ -1,1 +1,1 @@
-Hello! This is the file that will be merging with the master branch, originally located in the "boilerplate" branch.
+Hello! This is the file that will be merging with the master branch, originally located in the "boilerplate" branch. If you're reading this, that means it has been modified from the "second-feature" branch as well!
